@@ -113,7 +113,7 @@ const resourcesData = {
         ]
     },
     modelapi: {
-        title: "模型接口",
+        title: "MaaS平台",
         items: [
             { name: "阿里云百炼", desc: "专为企业打造的大模型服务与应用开发平台", url: "https://bailian.console.aliyun.com/", icon: "☁️", tag: "平台" },
             { name: "火山方舟", desc: "提供模型训练、推理、评测、精调等全方位功能", url: "https://www.volcengine.com/product/ark", icon: "🌋", tag: "平台" },
@@ -129,7 +129,7 @@ const resourcesData = {
         ]
     },
     llm: {
-        title: "MaaS平台",
+        title: "大模型平台",
         items: [
             { name: "Kimi", desc: "专业代码生成、智能对话、视觉推理", url: "https://platform.moonshot.cn/", icon: "🌙", tag: "模型" },
             { name: "MiniMax", desc: "自主研发多模态通用大模型，强大代码和 Agent 能力", url: "https://www.minimaxi.com/", icon: "⚡", tag: "模型" },
