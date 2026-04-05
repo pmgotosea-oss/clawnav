@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pmgotosea-oss.github.io/clawnav/sitemap.xml
