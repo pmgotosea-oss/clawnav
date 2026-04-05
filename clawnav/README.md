@@ -98,8 +98,3 @@ npx serve .
 ## 📄 许可证
 
 MIT License
-
-## 🙏 致谢
-
-- 灵感来源：[Claw123](https://www.claw123.com/)
-- OpenClaw 社区
